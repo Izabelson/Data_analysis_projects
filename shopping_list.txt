@@ -1,0 +1,5 @@
+lista zakupow 1
+produkt 1
+produkt2
+prod 3
+
